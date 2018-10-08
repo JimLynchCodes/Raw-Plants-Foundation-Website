@@ -5,6 +5,12 @@ require("core-js/fn/array/from");
 import { FaHome } from "react-icons/fa/";
 import { FaSearch } from "react-icons/fa/";
 import { FaEnvelope } from "react-icons/fa/";
+import { FaUser } from "react-icons/fa/";
+import { FaBriefcase } from "react-icons/fa/";
+import { FaHandsHelping } from "react-icons/fa/";
+import { FaPhone } from "react-icons/fa/";
+import { FaImages } from "react-icons/fa/";
+import { FaBookOpen } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
 
 import Item from "./Item";
@@ -24,8 +30,12 @@ class Menu extends React.Component {
 
     this.items = [
       { to: "/", label: "Home", icon: FaHome },
-      { to: "/category/", label: "Categories", icon: FaTag },
-      { to: "/search/", label: "Search", icon: FaSearch },
+      { to: "/search/", label: "What We Do", icon: FaBriefcase },
+      { to: "/search/", label: "Who We Are", icon: FaUser },
+      { to: "/search/", label: "Get Involved", icon: FaHandsHelping },
+      { to: "/search/", label: "Contact Us", icon: FaPhone },
+      { to: "/search/", label: "Gallery", icon: FaImages },
+      { to: "/category/", label: "Blog", icon: FaBookOpen },
       ...pages,
       { to: "/contact/", label: "Contact", icon: FaEnvelope }
     ];

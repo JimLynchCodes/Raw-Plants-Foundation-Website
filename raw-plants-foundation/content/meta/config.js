@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteTitle: "Raw Plants Foundation", // <title>
+  shortSiteTitle: "RPF", // <title> ending for posts and pages
+  siteDescription: "Enlightening humans on health and nutrition.",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
@@ -10,11 +10,11 @@ module.exports = {
   authorName: "greg lobinski",
   authorTwitterAccount: "greglobinski",
   // info
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "The Raw Plants Foundation",
+  headerSubTitle: "Enlightening humans on health and nutrition.",
   // manifest.json
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "RPF",
+  manifestShortName: "RPF", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
