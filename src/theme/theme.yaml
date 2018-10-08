@@ -47,19 +47,19 @@ color:
       d: '#dddbda'
       e: '#c9c7c5'
       f: '#b0adab'
-      g: '#969492'
-      h: '#706e6b'
+      g: '#af0eb5'
+      h: '#af0eb5'
       i: '#514f4d'
       j: &color-gray-10 '#3e3e3c'
       k: '#2b2826'
     black: '#000000'
   brand:
-    primary: &color-brand-primary '#709425'
-    primaryActive: '#709425'
-    light: '#709425'
-    lightActive: '#709425'
-    dark: '#709425'
-    darkActive: '#709425'
+    primary: &color-brand-primary '#155e0b'
+    primaryActive: '#9ee804'
+    light: '#9ee804'
+    lightActive: '#9ee804'
+    dark: '#9ee804'
+    darkActive: '#9ee804'
   special:
     attention: &color-special-attention orange
 # FONT

@@ -8,7 +8,7 @@ import Headline from "../components/Article/Headline";
 import List from "../components/List";
 import Seo from "../components/Seo";
 
-const CategoryPage = props => {
+const BlogPage = props => {
   const {
     data: {
       posts: { edges: posts },
@@ -47,7 +47,7 @@ const CategoryPage = props => {
         {theme => (
           <Article theme={theme}>
             <header>
-              <Headline title="Posts by categories" theme={theme} />
+              <Headline title="Blog Posts by Categories" theme={theme} />
             </header>
             {categoryList.map(item => (
               <section key={item[0]}>
@@ -76,11 +76,11 @@ const CategoryPage = props => {
   );
 };
 
-CategoryPage.propTypes = {
+BlogPage.propTypes = {
   data: PropTypes.object.isRequired
 };
 
-export default CategoryPage;
+export default BlogPage;
 
 //eslint-disable-next-line no-undef
 export const query = graphql`
