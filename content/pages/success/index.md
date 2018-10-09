@@ -2,5 +2,4 @@
 title: Success
 ---
 
-Thank you. <br />
-I will answer to your message as soon as possible.
+I'm not exactly sure how I get to this page...

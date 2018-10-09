@@ -47,7 +47,7 @@ const BlogPage = props => {
         {theme => (
           <Article theme={theme}>
             <header>
-              <Headline title="Blog Posts by Categories" theme={theme} />
+              <Headline title="Raw Plants Blog Posts" theme={theme} />
             </header>
             {categoryList.map(item => (
               <section key={item[0]}>

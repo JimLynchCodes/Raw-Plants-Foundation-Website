@@ -1,5 +1,5 @@
 ---
-title: People will forget what you said, people will forget what you did
+title: Our Motto Is, "Eat More Raw Plants", Not "Eat Only Raw Plants"
 category: "sayings"
 cover: photo-1489900464632-5f5907edda24.jpg
 author: greg lobinski

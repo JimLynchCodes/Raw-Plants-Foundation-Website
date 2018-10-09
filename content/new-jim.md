@@ -17,25 +17,6 @@ Our Motto Is, “Eat Raw More Plants”, And Not, “Eat Only Raw Plants”
 
 —-
 
-(What We Do)
-
-We have two missions:
-	- To promote an abundance of available, healthy plants for human consumption.
-	- To spread knowledge about the benefits of eating a raw plants-based diet.   Now let’s dive a bit deeper into what work we do to realize these missions.
-
-    - Raw Plants Giveaway & Raw Plants Subsidy Programs
-	- “Raw Plants Are Lit” program (for children / schools)
-	- Raw Plants Workforce Initiative
-	- “Plants For Peds” (canvassing / giving away raw plants to pedestrians)
-
-Spreading Knowledge About Raw Plants And Humans
-
-	- Meetup groups / larger events
-	- Speaking engagements
-	- Blog
-		-  enzymes in plants and what happens when you overheat them.
-
-
 
 
 Contact
@@ -96,4 +77,3 @@ Delete extra pages in footer
 Terms and Privacy to Footer
 
 
-	

@@ -1,5 +1,5 @@
 ---
-title: There are only two ways to live your life. 
+title: Plant-Based Bodybuilding 
 cover: photo-1451324119451-db0ac857463c.jpg
 author: greg lobinski
 ---

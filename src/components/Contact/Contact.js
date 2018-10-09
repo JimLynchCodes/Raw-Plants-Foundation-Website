@@ -93,7 +93,7 @@ const Contact = props => {
                 })(
                   <TextArea
                     name="message"
-                    placeholder="Autosize height with minimum and maximum number of lines"
+                    placeholder="I love raw plants!"
                     autosize={{ minRows: 4, maxRows: 10 }}
                   />
                 )}
