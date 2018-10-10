@@ -2,8 +2,8 @@ module.exports = {
   siteTitle: "Raw Plants Foundation", // <title>
   shortSiteTitle: "RPF", // <title> ending for posts and pages
   siteDescription: "Enlightening humans on health and nutrition.",
-  siteUrl: "rawplantsfoundation.org",
-  pathPrefix: "",
+  siteUrl: "https://jimtheman.github.io",
+  pathPrefix: "/Raw-Plants-Foundation-Website",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
