@@ -6,7 +6,9 @@ Here at The Raw Plants Foundation we have two missions:
 
 - ### To promote an abundance of available, healthy plants for human consumption.
 - ### To spread knowledge about the benefits of eating a raw plants-based diet.   
-	
+
+<br/>
+
 Now let’s dive a bit deeper into the work we do to realize these missions.
 
 ---
