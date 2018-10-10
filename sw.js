@@ -26,24 +26,24 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-72308a56ddbda5992d5f.js"
+    "url": "webpack-runtime-b0390b59985de432fd3a.js"
   },
   {
-    "url": "app.625aa75e9a536db5aec1.css"
+    "url": "app.6b68ee5c9c2f8b8858fb.css"
   },
   {
-    "url": "app-1a0d8e721256e6c0621f.js"
+    "url": "app-bcaac00399443d57993e.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-78cf07aa21a44ed99bb9.js"
   },
   {
     "url": "index.html",
-    "revision": "fc21cfb505a8d761a2b7bfd79971dce6"
+    "revision": "73d5b3b228fe6e868d7699fcce021bd2"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7d714b4fc1246239190ef373d447a3fa"
+    "revision": "3ed42b867113bab5df2122f2931e8ee5"
   },
   {
     "url": "component---src-pages-index-js-fc653f88b04c491e0e5d.js"
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "0-934b7eaa0ca016d861eb.js"
   },
   {
-    "url": "static/d/891/path---index-6a9-Z5fHTFsUqOJdUr4FV9PWiLgpMU.json",
-    "revision": "a851d803581877986a54160bfbeaadb8"
+    "url": "static/d/771/path---index-6a9-tev8ce9AygWW48RfjC34O9K00.json",
+    "revision": "46937b854a9755ae73b7bffcc7d0b8e5"
   },
   {
     "url": "component---src-pages-404-js-0479e4771340bed254ce.js"
@@ -74,7 +74,7 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Raw-Plants-Foundation-Website/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
