@@ -15,7 +15,7 @@ Jim is somewhat of a modern Benjamin Franklin. He is a mathematician, computer p
 
 
 ## Community Members
-Below is a list of our current members. For more information on becoming a member please see our [about us](/about) page.
+Below is a list of our current members. For more information on becoming a member please see our [Get Involved](/get-involved) page.
 
 ### Spirit Members
 

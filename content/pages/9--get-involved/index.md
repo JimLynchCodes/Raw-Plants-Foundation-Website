@@ -19,7 +19,7 @@ There are three different types of memberships that represent different ways in 
 - ## Distinguished Member
   Those members who are most involved and have achieved all three of the above membership designations will then be considered distinguished members, the most highly respected and regarded for their great contributions of time, energy, and money towards this cause that we value so highly: raw plants.
 
-##### _All current members are listed on the [About Us](/about) page._
+##### _All current members are listed on the [Who We Are](/who-we-are) page._
 
 ## #rawplants
 
