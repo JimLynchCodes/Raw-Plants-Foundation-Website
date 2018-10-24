@@ -1,6 +1,6 @@
 # Raw Plants Foundation
 
-A [GatsbyJS](https://www.gatsbyjs.org/) blog starter. <br /><br />
+A website serving as an online presence for the [soon to be] real public charity organization The Raw Plants Foundation. 
 
 [![GitHub tag](https://img.shields.io/github/tag/greglobinski/gatsby-starter-hero-blog.svg)](https://github.com/greglobinski/gatsby-starter-personal-blog)
 [![GitHub stars](https://img.shields.io/github/stars/greglobinski/gatsby-starter-hero-blog.svg)](https://github.com/greglobinski/gatsby-starter-personal-blog/stargazers)
