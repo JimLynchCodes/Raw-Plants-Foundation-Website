@@ -2,7 +2,7 @@
 
 A website serving as an online presence for the [soon to be] real public charity organization The Raw Plants Foundation. 
 
-<img src="./raw-plants-homepage.png"/>
+<img src="./Raw-Plants-Foundation-Homepage.png" href="https://jimtheman.github.io/Raw-Plants-Foundation-Website/"/>
 
 
 [![GitHub tag](https://img.shields.io/github/tag/greglobinski/gatsby-starter-hero-blog.svg)](https://github.com/greglobinski/gatsby-starter-personal-blog)
