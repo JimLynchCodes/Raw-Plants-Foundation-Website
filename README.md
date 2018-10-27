@@ -2,7 +2,7 @@
 
 A website serving as an online presence for the [soon to be] real public charity organization The Raw Plants Foundation. 
 
-<a href="href="https://jimtheman.github.io/Raw-Plants-Foundation-Website/">
+<a href="https://jimtheman.github.io/Raw-Plants-Foundation-Website/">
   <img src="./Raw-Plants-Foundation-Homepage.png"/>
 </a>                                               
 
