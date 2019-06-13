@@ -6,6 +6,7 @@ A website serving as an online presence for the [soon to be] real public charity
   <img src="./Raw-Plants-Foundation-Homepage.png"/>
 </a>                                               
 
+live demo: https://jimtheman.github.io/Raw-Plants-Foundation-Website/
 
 [![GitHub tag](https://img.shields.io/github/tag/greglobinski/gatsby-starter-hero-blog.svg)](https://github.com/greglobinski/gatsby-starter-personal-blog)
 [![GitHub stars](https://img.shields.io/github/stars/greglobinski/gatsby-starter-hero-blog.svg)](https://github.com/greglobinski/gatsby-starter-personal-blog/stargazers)
